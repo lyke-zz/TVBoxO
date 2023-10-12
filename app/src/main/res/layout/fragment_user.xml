@@ -52,7 +52,7 @@
                     android:focusable="false"
                     android:focusableInTouchMode="false"
                     android:gravity="center"
-                    android:text="历史"
+                    android:text="历-史"
                     android:textAlignment="gravity"
                     android:textColor="@color/color_CCFFFFFF"
                     android:textSize="@dimen/ts_40" />
@@ -177,7 +177,7 @@
 
             </LinearLayout>
 
-            <LinearLayout
+            <!--<LinearLayout
                 android:id="@+id/tvFavorite"
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/vs_100"
@@ -214,7 +214,7 @@
                     android:textColor="@color/color_CCFFFFFF"
                     android:textSize="@dimen/ts_40" />
 
-            </LinearLayout>
+            </LinearLayout>-->
 
 
             <LinearLayout
